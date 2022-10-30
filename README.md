@@ -1,3 +1,3 @@
 # kodluyoruzilkrepo
-Bu repo [Kodluyoruz] (https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
-![test] (C:/Users/tg/Desktop/kodluyoruzilkrepo/ekran.jpg)
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+![test](C:/Users/tg/Desktop/kodluyoruzilkrepo/ekran.jpg)
